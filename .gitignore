@@ -1,1 +1,13 @@
 .vscode
+*/model
+03_text_vectorization/eng_w2v
+03_text_vectorization/GoogleNews-vectors-negative300.bin.gz
+03_text_vectorization/kor_nsmc_w2v
+03_text_vectorization/kor_nsmc_w2v_metadata.tsv
+03_text_vectorization/kor_nsmc_w2v_tensor.tsv
+03_text_vectorization/ted_en_fasttext.model
+03_text_vectorization/ted_en_fasttext.model.wv.vectors_ngrams.npy
+08_seq2seq/data/glove.6B.100d.txt
+05_text_classification/ted_en_fasttext.model
+05_text_classification/ted_en_fasttext.model.wv.vectors_ngrams.npy
+05_text_classification/archive.zip
